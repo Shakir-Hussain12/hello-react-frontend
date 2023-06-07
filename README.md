@@ -83,6 +83,7 @@ Clone this repository to your desired folder:
 
 ### Install
 
+Link to [Rails API](https://github.com/Shakir-Hussain12/hello-rails-back-end)
 Install this project with:
 
 ```sh
