@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Shakir-Hussain12/hello_webpack.git
+  git clone https://github.com/Shakir-Hussain12/hello-rails-back-end.git
 ```
 
 ### Install
@@ -87,9 +87,9 @@ Link to [Rails API](https://github.com/Shakir-Hussain12/hello-rails-back-end)
 Install this project with:
 
 ```sh
-  cd <proj_name>
+  cd hello-rails-back-end
   bundle install
-  yarn add .
+  npm i 
 ```
 
 ### Usage
